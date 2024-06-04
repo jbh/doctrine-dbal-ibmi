@@ -1,5 +1,5 @@
 {
-    "name": "alanseiden/doctrine-dbal-ibmi",
+    "name": "jbh/doctrine-dbal-ibmi",
     "description": "Doctrine DBAL drivers for DB2 on the IBM i platform",
     "license": "MIT",
     "type": "library",
